@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  width: auto;
+  height: 50px;
+  background-color: aqua;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.item {
+  font-size: 1.2rem;
+  font-weight: 200;
+}
+.item span {
+  padding-right: 10px;
+}
+.order {
+  font-size: 1.2rem;
+  font-weight: 200;
+  padding-right: 10px;
+}
+.input {
+  width: 200px;
+  height: 20px;
+}
+.main_logo {
+  width: 40px;
+}
